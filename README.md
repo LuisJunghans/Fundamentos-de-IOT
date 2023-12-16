@@ -1,4 +1,4 @@
-#Fundamentos de Internet das Coisas
+# Fundamentos de Internet das Coisas
 Trabalho realizado na matéria de Fundamentos de Internet das Coisas. 
 
 Foi construido um sistema de leitura de temperatura e umidade utilizando Thonny IDE para o desenvolvimento do código, um módulo relé, uma placa Esp32 e um módulo DHT11 como componentes
